@@ -1,5 +1,6 @@
 # Student_Management_System
 Spring Boot, HTML, Thymeleaf
+<br/>
 <img src="SMS_s1.jpg" alt="SMS ss 1">
 <br/>
 <img src="SMS_s2.jpg" alt="SMS ss 2">
